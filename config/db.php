@@ -1,6 +1,6 @@
 <?php
 // Connexion à la base de données avec PDO
-$dsn = 'mysql:host=localhost;dbname=finalbattle';
+$dsn = 'mysql:host=127.0.0.1;dbname=finalbattle';
 $username = 'isma69';
 $password = '9Janvier1996';
 
